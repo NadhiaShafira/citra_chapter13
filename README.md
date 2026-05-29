@@ -292,7 +292,7 @@ Grafik digunakan untuk:
 ![Grafik Akurasi](ss11_grafik_akurasi.png)
 ```
 
-![Grafik Akurasi](ss11_grafik_akurasi.png)
+![Grafik Akurasi](https://github.com/NadhiaShafira/citra_chapter13/blob/dc0716620a3059150de7eb6cbed4ef36ff4da0b3/docs/ss11_grafik_akurasi.png)
 
 ---
 
