@@ -253,7 +253,7 @@ Tujuan:
 ![Perbandingan Nilai K](ss9_perbandingan_nilai_k.png)
 ```
 
-![Perbandingan Nilai K](ss9_perbandingan_nilai_k.png)
+![Perbandingan Nilai K](https://github.com/NadhiaShafira/citra_chapter13/blob/1bac255c37bacb81da42348137a7cd5a989d57d5/docs/ss9_perbandingan_nilai_k.png)
 
 ---
 
