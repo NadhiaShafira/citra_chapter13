@@ -137,7 +137,7 @@ Dataset memiliki:
 ![Load Dataset](ss4_load_dataset.png)
 ```
 
-![Load Dataset](ss4_load_dataset.png)
+![Load Dataset](https://github.com/NadhiaShafira/citra_chapter13/blob/c98b6d70c28c2a3d3971e43faaea2102f8d3c7fd/docs/ss4_load_dataset.png)
 
 ---
 
