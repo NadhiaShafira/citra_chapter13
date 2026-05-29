@@ -207,7 +207,7 @@ Tujuan evaluasi:
 ![Akurasi](ss7_knn_accuracy.png)
 ```
 
-![Akurasi](ss7_knn_accuracy.png)
+![Akurasi](https://github.com/NadhiaShafira/citra_chapter13/blob/c1571f10e97e2400c87d6ac074982932cffa541e/docs/ss7_knn_accuracy.png)
 
 ---
 
