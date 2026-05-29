@@ -112,7 +112,7 @@ Hasil tampilannya nanti:
 
 ![Struktur Folder](https://github.com/NadhiaShafira/citra_chapter13/blob/e6e0802f2c659a0683d96918eab017ebca0bf7f3/docs/ss1_struktur_folder.png)
 
-![Install Library](ss2_install_library.png)
+![Install Library](https://github.com/NadhiaShafira/citra_chapter13/blob/fd7e569c62b93d9265a32c8175a0f26ef2a182d2/docs/ss2_install_library.png)
 
 ![Python Running](ss3_python_running.png)
 
