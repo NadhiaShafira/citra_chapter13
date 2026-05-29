@@ -114,7 +114,7 @@ Hasil tampilannya nanti:
 
 ![Install Library](https://github.com/NadhiaShafira/citra_chapter13/blob/fd7e569c62b93d9265a32c8175a0f26ef2a182d2/docs/ss2_install_library.png)
 
-![Python Running](ss3_python_running.png)
+![Python Running](https://github.com/NadhiaShafira/citra_chapter13/blob/04bcfb54bc82055512f53fa80f40da6d90934e13/docs/ss3_python_running.png)
 
 ---
 
