@@ -228,7 +228,7 @@ Tujuan:
 ![KNN Sklearn](ss8_knn_sklearn.png)
 ```
 
-![KNN Sklearn](ss8_knn_sklearn.png)
+![KNN Sklearn](https://github.com/NadhiaShafira/citra_chapter13/blob/2e1a273b5d0a88b6421b105f2b12a57809bcdeea/docs/ss8_knn_sklearn.png)
 
 ---
 
