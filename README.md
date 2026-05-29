@@ -184,7 +184,7 @@ Tahapan algoritma:
 ![KNN Manual](ss6_knn_manual_prediction.png)
 ```
 
-![KNN Manual](ss6_knn_manual_prediction.png)
+![KNN Manual](https://github.com/NadhiaShafira/citra_chapter13/blob/47902a6dd317b731e04ea4d90b9ddfa0fc10bd11/docs/ss6_knn_manual_prediction.png)
 
 ---
 
