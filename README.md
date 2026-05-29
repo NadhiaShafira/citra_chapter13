@@ -163,7 +163,7 @@ Tahapan:
 ![Euclidean Distance](ss5_euclidean_distance.png)
 ```
 
-![Euclidean Distance](ss5_euclidean_distance.png)
+![Euclidean Distance](https://github.com/NadhiaShafira/citra_chapter13/blob/64872cfe463956c715d16775522169971bff3b1b/docs/ss5_euclidean_distance.png)
 
 ---
 
