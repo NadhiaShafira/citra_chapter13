@@ -1,5 +1,3 @@
-# citra_chapter13
-
 # 🌸 IMPLEMENTASI K-NEAREST NEIGHBOR (KNN) DARI NOL 🌸
 
 <div align="center">
@@ -112,7 +110,7 @@ Letakkan gambar di bawah ini:
 
 Hasil tampilannya nanti:
 
-![Struktur Folder](ss1_struktur_folder.png)
+![Struktur Folder](https://github.com/NadhiaShafira/citra_chapter13/blob/e6e0802f2c659a0683d96918eab017ebca0bf7f3/docs/ss1_struktur_folder.png)
 
 ![Install Library](ss2_install_library.png)
 
