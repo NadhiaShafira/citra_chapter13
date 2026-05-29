@@ -273,7 +273,7 @@ Tahapan:
 ![Cross Validation](ss10_cross_validation.png)
 ```
 
-![Cross Validation](ss10_cross_validation.png)
+![Cross Validation](https://github.com/NadhiaShafira/citra_chapter13/blob/08a47fedc046f3d9cbab77cd9e6682cff55fc08d/docs/ss10_cross_validation.png)
 
 ---
 
